@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnnxRuntime_SSD", "OnnxRuntime_SSD\OnnxRuntime_SSD.csproj", "{D0E58D10-B747-44BD-A1BC-0060A81CD840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E58D10-B747-44BD-A1BC-0060A81CD840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E58D10-B747-44BD-A1BC-0060A81CD840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E58D10-B747-44BD-A1BC-0060A81CD840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E58D10-B747-44BD-A1BC-0060A81CD840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E64AC7-3EDA-49F1-B220-918DC2A17DF3}
+	EndGlobalSection
+EndGlobal
